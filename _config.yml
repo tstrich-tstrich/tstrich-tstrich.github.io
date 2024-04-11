@@ -6,7 +6,6 @@ description: > # keep this and put description below
 url: "https://tstrich-tstrich.github.io/" # the base hostname & protocol for your site
 linkedin_url: "https://www.linkedin.com/in/theodore-strich/"
 github_username: theodore-strich
-twitter_username: 
 footer_text: "This site uses <a href='https://github.com/gamingportfolio/urban-theme-portfolio'>urban-theme (portfolio)</a>."
 
 # Build settings
