@@ -2,7 +2,7 @@
 layout: post
 title:  "Pixelguy Fighters"
 summary: "Solo Developer"
-date:   2024-04-28 00:00:00
+date:   2024-01-01 00:00:00
 preview: /assets/pixelguys.png
 ---
 
