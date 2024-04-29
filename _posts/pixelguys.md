@@ -2,11 +2,13 @@
 layout: post
 title:  "Pixelguy Fighters"
 summary: "Solo Developer"
-date:   2024-01-01 00:00:00
+date:   2020-01-01 00:00:00
 preview: /assets/pixelguys.png
 ---
 
-![Picture 1](/assets/fullsize.png)
+ <iframe width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe> 
 
 [itch.io page](https://tstrich.itch.io/pixelguy-fighters)<br>
 
