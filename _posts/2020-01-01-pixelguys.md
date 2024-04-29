@@ -6,9 +6,7 @@ date:   2020-01-01 00:00:00
 preview: /assets/pixelguys.png
 ---
 
- <iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe> 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/3nWqwQzekx8?si=vIiPiznAb9CvsLZK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [itch.io page](https://tstrich.itch.io/pixelguy-fighters)<br>
 
