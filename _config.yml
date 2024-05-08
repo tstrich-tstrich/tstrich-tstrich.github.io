@@ -5,7 +5,7 @@ description: > # keep this and put description below
   Programmer, Composer, and Musician
 url: "https://tstrich-tstrich.github.io/" # the base hostname & protocol for your site
 linkedin_url: "https://www.linkedin.com/in/theodore-strich/"
-github_username: theodore-strich
+github_username: tstrich-tstrich
 footer_text: "This site uses <a href='https://github.com/gamingportfolio/urban-theme-portfolio'>urban-theme (portfolio)</a>."
 
 # Build settings
