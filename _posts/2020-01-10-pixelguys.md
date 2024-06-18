@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pixelguy Fighters"
-summary: "Solo Developer\n"
+summary: "Solo Developer"
 date:   2020-01-01 00:00:00
 preview: /assets/pixelguys.png
 ---
